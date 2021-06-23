@@ -19,7 +19,7 @@ import ContactBlock from "../../content/contactBlock.json";
 
 const Home = () => {
   return (
-    <>
+    <div>
       <MiddleBlock
         title={FirstBlock.title}
         content={FirstBlock.text}
@@ -53,7 +53,7 @@ const Home = () => {
           icon="waving.svg"
         />
         <ContactForm title={ContactBlock.title} content={ContactBlock.text} />
-    </>
+    </div>
   );
 };
 
