@@ -32,7 +32,7 @@ const Footer = () => {
                     `Do you have any question regarding the project? Fell free to reach out.`
                   )}
                 </S.Para>
-                <a href="mailto:l.qqbadze@gmail.com">
+                <a href="#">
                   <S.Chat>{t(`Let's Chat`)}</S.Chat>
                 </a>
               </Col>
@@ -109,35 +109,35 @@ const Footer = () => {
               </S.NavLink>
               <S.FooterContainer>
                 <a
-                  href="https://github.com/Adrinlol/create-react-app-adrinlol"
+                  href="#"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   <SvgIcon src="github.svg" />
                 </a>
                 <a
-                  href="https://twitter.com/Adrinlolx"
+                  href="#"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   <SvgIcon src="twitter.svg" />
                 </a>
                 <a
-                  href="https://www.linkedin.com/in/lasha-kakabadze//"
+                  href="#"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   <SvgIcon src="linkedin.svg" />
                 </a>
                 <a
-                  href="https://github.com/Adrinlol/"
+                  href="#"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   <SvgIcon src="instagram.svg" />
                 </a>
                 <a
-                  href="https://medium.com/@lashakakabadze/"
+                  href="#"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
