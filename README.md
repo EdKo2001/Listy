@@ -1,4 +1,4 @@
-# Landy
+# Listy
 Own Project called React Corporate Website. In The Progress.
 
 ### Used technology
