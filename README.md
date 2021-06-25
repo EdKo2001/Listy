@@ -1,5 +1,5 @@
 # Listy
-Own Project called React Corporate Website. In The Progress.
+Own Project. In The Progress.
 
 ### Used technology
 * react
